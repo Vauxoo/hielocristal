@@ -1,0 +1,12 @@
+[submodule "hielocristal"]
+	path = hielocristal
+	url = git@git.vauxoo.com:vauxoo/hielocristal.git
+	branch = 16.0
+[submodule "costarica"]
+	path = costarica
+	url = git@git.vauxoo.com:vauxoo/costarica.git
+	branch = 16.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 16.0
